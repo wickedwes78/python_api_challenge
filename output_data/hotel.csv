@@ -1,0 +1,34 @@
+City_ID,City,Country,Lat,Lng,Humidity,Hotel Name
+2,carnarvon,AU,-24.8667,113.6333,45,No hotel found
+19,badger,US,64.8,-147.5333,29,Hotel North Pole
+21,bethel,US,41.3712,-73.414,40,Hampton Inn Danbury
+51,cromwell,US,41.5951,-72.6454,40,SpringHill Suites Hartford Cromwell
+59,nahiyat ash shinafiyah,IQ,31.5874,44.6602,30,No hotel found
+66,westport,US,41.1415,-73.3579,36,Norwalk Inn and Conference Center
+69,college,US,64.8569,-147.8028,29,BEST WESTERN PLUS Pioneer Park Inn
+86,irymple,AU,-34.25,142.1667,34,Chaffey Motor Inn
+104,sarakhs,IR,36.5449,61.1577,18,هتل ابریشم
+111,kushk,AF,33.2957,61.9522,20,No hotel found
+132,hovd,MN,48.0056,91.6419,25,Khovd hotel
+140,korla,CN,41.7597,86.1469,21,Silver Star Hotel
+144,qalat,AF,32.1058,66.9083,19,No hotel found
+267,siwa oasis,EG,29.2041,25.5195,45,فندق الكيلانى
+312,jiayuguan,CN,39.8167,98.3,13,嘉峪关宾馆
+347,chifeng,CN,42.2683,118.9636,20,心连心酒店
+375,buka,UZ,40.8108,69.1986,35,No hotel found
+387,fuyuan,CN,46.4333,127.0833,27,No hotel found
+404,alice springs,AU,-23.7,133.8833,29,Aurora Alice Springs
+417,kutum,SD,14.2,24.6667,21,No hotel found
+425,kyabram,AU,-36.3167,145.05,42,No hotel found
+444,karatau,KZ,43.1667,70.4667,40,Артабас
+453,gerash,IR,27.6652,54.1371,14,هتل آبشار
+464,los zacatones,MX,22.95,-102.05,14,No hotel found
+470,ad dabbah,SD,18.05,30.95,16,No hotel found
+481,ardakan,IR,32.31,54.0175,15,هتل رستوران باغ سرای اردکان
+490,smithers,CA,54.7804,-127.1743,45,Sunshine Inn Hotel
+518,khash,IR,28.2211,61.2158,15,No hotel found
+521,delijan,IR,33.9905,50.6838,17,هتل سبز کارون
+523,laojunmiao,CN,39.8333,97.7333,14,No hotel found
+527,mount gambier,AU,-37.8333,140.7667,44,The Old Mount Gambier Gaol
+541,whitefish,US,48.4111,-114.3376,34,The Firebrand Hotel
+572,feicheng,CN,35.2606,117.9675,35,No hotel found
